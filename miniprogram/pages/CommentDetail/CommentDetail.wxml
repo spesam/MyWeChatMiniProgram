@@ -1,0 +1,2 @@
+<!--miniprogram/pages/CommentDetail/CommentDetail.wxml-->
+<button bindtap="query" type="primary">点击查询</button>

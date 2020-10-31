@@ -1,0 +1,6 @@
+<!--miniprogram/pages/addDigest/addDigest.wxml-->
+<button bindtap="onTap">点击扫码</button>
+
+<view class="context">
+<text class="article">我这个页面是个演员，功能开发一半暂停了。</text>
+</view>
